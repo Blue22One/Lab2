@@ -11,7 +11,7 @@ public class MainApp {
         int opt = scanner.nextInt();
 
         if (opt == 0) {
-
+            System.out.println("de completat");
         } else if (opt == 1) {
             System.out.println("Introduceti sirul initial:");
             String sir = scanner.next();
